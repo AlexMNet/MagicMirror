@@ -31,7 +31,7 @@ Module.register("weather", {
 		maxNumberOfDays: 5,
 		maxEntries: 5,
 		ignoreToday: false,
-		fade: true,
+		fade: false,
 		fadePoint: 0.25, // Start on 1/4th of the list.
 		initialLoadDelay: 0, // 0 seconds delay
 		appendLocationNameToHeader: true,
